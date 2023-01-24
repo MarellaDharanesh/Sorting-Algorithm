@@ -64,8 +64,8 @@ print(list_of_nums)
 ```
 
 ## Output:
-![Screenshot (30)](https://user-images.githubusercontent.com/118707669/214304611-5815a497-7928-4be9-af43-eccc2375a119.png)
-![image](https://user-images.githubusercontent.com/118707669/214304807-91524d11-87a3-460b-8e0c-31f0628cb253.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/118707669/214305282-9c6c41ab-a9e3-48ad-bbd1-36ef909b64da.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/118707669/214305482-b2366743-4d62-4093-b18d-2cb5fc4231cb.png)
 
 
 ## Result:
